@@ -1,0 +1,58 @@
+
+
+.ceiba-logo{
+	width:25%;
+	margin: 0px 0px 40px 0px;
+	padding: 10px;
+	fill: #fff;
+}
+.background-image{
+	 background-image: 
+	  linear-gradient(rgba(30,109,255, 0.9), rgba(0,93,225, 0.6)),
+	  url("/img/jumbotron.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:600px;
+}
+
+.border-line{
+	 border-bottom: solid .2rem;
+	 padding-bottom: .2rem;
+}
+.border-line-right{
+	 border-bottom: solid .1rem;
+	 margin-bottom: 2rem;
+	 padding-bottom: 1rem;
+	 color:dimgray;
+}
+.drop-shadow{
+	 box-shadow: 0 0 20px black;
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*End of Med*/
